@@ -2,7 +2,7 @@
 
 **CeritaMu** adalah aplikasi storytelling yang memungkinkan pengguna untuk mendaftar, login, mengunggah, dan berbagi cerita pribadi. Aplikasi ini dibangun menggunakan **Kotlin** dengan arsitektur **MVVM** dan dikembangkan menggunakan **Android Studio**.
 
-![CeritaMu](./ceritamu-screenshot.png)
+![CeritaMu](./project21.png)
 
 ---
 
